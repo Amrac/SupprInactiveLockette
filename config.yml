@@ -1,0 +1,5 @@
+# default config.yml
+DaysLimit: 30
+clearAllItem: true
+debug: true
+clearChest: "[InactifLockette] Le coffre est vidé"
